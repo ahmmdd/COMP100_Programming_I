@@ -1,0 +1,5 @@
+c:\users\ahmed\documents\visual studio 2013\Projects\Week02\ReadInt\bin\Debug\ReadInt.exe.config
+c:\users\ahmed\documents\visual studio 2013\Projects\Week02\ReadInt\bin\Debug\ReadInt.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\Week02\ReadInt\bin\Debug\ReadInt.pdb
+c:\users\ahmed\documents\visual studio 2013\Projects\Week02\ReadInt\obj\Debug\ReadInt.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\Week02\ReadInt\obj\Debug\ReadInt.pdb

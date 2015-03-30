@@ -1,0 +1,6 @@
+c:\users\ahmed\documents\visual studio 2013\Projects\Week04\InClass\bin\Debug\InClass.exe.config
+c:\users\ahmed\documents\visual studio 2013\Projects\Week04\InClass\bin\Debug\InClass.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\Week04\InClass\bin\Debug\InClass.pdb
+c:\users\ahmed\documents\visual studio 2013\Projects\Week04\InClass\obj\Debug\InClass.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\Week04\InClass\obj\Debug\InClass.pdb
+c:\users\ahmed\documents\visual studio 2013\Projects\Week04\InClass\obj\Debug\InClass.csprojResolveAssemblyReference.cache

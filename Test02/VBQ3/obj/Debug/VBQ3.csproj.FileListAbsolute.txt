@@ -1,0 +1,5 @@
+C:\Users\Ahmed\documents\visual studio 2013\Projects\GameWorkshop\VBQ3\bin\Debug\VBQ3.exe.config
+C:\Users\Ahmed\documents\visual studio 2013\Projects\GameWorkshop\VBQ3\bin\Debug\VBQ3.exe
+C:\Users\Ahmed\documents\visual studio 2013\Projects\GameWorkshop\VBQ3\bin\Debug\VBQ3.pdb
+C:\Users\Ahmed\documents\visual studio 2013\Projects\GameWorkshop\VBQ3\obj\Debug\VBQ3.exe
+C:\Users\Ahmed\documents\visual studio 2013\Projects\GameWorkshop\VBQ3\obj\Debug\VBQ3.pdb

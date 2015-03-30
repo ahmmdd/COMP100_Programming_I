@@ -1,0 +1,6 @@
+C:\Users\Ahmed\documents\visual studio 2013\Projects\GameWorkshop\VBQ4\bin\Debug\VBQ4.exe.config
+C:\Users\Ahmed\documents\visual studio 2013\Projects\GameWorkshop\VBQ4\bin\Debug\VBQ4.exe
+C:\Users\Ahmed\documents\visual studio 2013\Projects\GameWorkshop\VBQ4\bin\Debug\VBQ4.pdb
+C:\Users\Ahmed\documents\visual studio 2013\Projects\GameWorkshop\VBQ4\obj\Debug\VBQ4.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\documents\visual studio 2013\Projects\GameWorkshop\VBQ4\obj\Debug\VBQ4.exe
+C:\Users\Ahmed\documents\visual studio 2013\Projects\GameWorkshop\VBQ4\obj\Debug\VBQ4.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ahmed\documents\visual studio 2013\Projects\GameWorkshop\VDQ1\bin\Debug\VDQ1.exe.config
+C:\Users\Ahmed\documents\visual studio 2013\Projects\GameWorkshop\VDQ1\bin\Debug\VDQ1.exe
+C:\Users\Ahmed\documents\visual studio 2013\Projects\GameWorkshop\VDQ1\bin\Debug\VDQ1.pdb
+C:\Users\Ahmed\documents\visual studio 2013\Projects\GameWorkshop\VDQ1\obj\Debug\VDQ1.exe
+C:\Users\Ahmed\documents\visual studio 2013\Projects\GameWorkshop\VDQ1\obj\Debug\VDQ1.pdb

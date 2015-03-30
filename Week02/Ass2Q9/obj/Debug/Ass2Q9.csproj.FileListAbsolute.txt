@@ -1,0 +1,6 @@
+c:\users\ahmed\documents\visual studio 2013\Projects\Week02\Ass2Q9\bin\Debug\Ass2Q9.exe.config
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week02\Ass2Q9\bin\Debug\Ass2Q9.exe
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week02\Ass2Q9\bin\Debug\Ass2Q9.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week02\Ass2Q9\obj\Debug\Ass2Q9.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week02\Ass2Q9\obj\Debug\Ass2Q9.exe
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week02\Ass2Q9\obj\Debug\Ass2Q9.pdb

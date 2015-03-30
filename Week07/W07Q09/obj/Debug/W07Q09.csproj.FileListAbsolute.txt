@@ -1,0 +1,6 @@
+c:\users\ahmed\documents\visual studio 2013\Projects\Week07\W07Q09\bin\Debug\W07Q09.exe.config
+c:\users\ahmed\documents\visual studio 2013\Projects\Week07\W07Q09\bin\Debug\W07Q09.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\Week07\W07Q09\bin\Debug\W07Q09.pdb
+c:\users\ahmed\documents\visual studio 2013\Projects\Week07\W07Q09\obj\Debug\W07Q09.csprojResolveAssemblyReference.cache
+c:\users\ahmed\documents\visual studio 2013\Projects\Week07\W07Q09\obj\Debug\W07Q09.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\Week07\W07Q09\obj\Debug\W07Q09.pdb

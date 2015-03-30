@@ -1,0 +1,5 @@
+c:\Users\Ahmed\documents\visual studio 2013\Projects\Week03\CalculateTile\bin\Debug\CalculateTile.exe.config
+c:\Users\Ahmed\documents\visual studio 2013\Projects\Week03\CalculateTile\bin\Debug\CalculateTile.exe
+c:\Users\Ahmed\documents\visual studio 2013\Projects\Week03\CalculateTile\bin\Debug\CalculateTile.pdb
+c:\Users\Ahmed\documents\visual studio 2013\Projects\Week03\CalculateTile\obj\Debug\CalculateTile.exe
+c:\Users\Ahmed\documents\visual studio 2013\Projects\Week03\CalculateTile\obj\Debug\CalculateTile.pdb

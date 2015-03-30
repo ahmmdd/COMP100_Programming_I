@@ -1,0 +1,5 @@
+c:\users\ahmed\documents\visual studio 2013\Projects\Week02\DisplayInfo\bin\Debug\DisplayInfo.exe.config
+c:\users\ahmed\documents\visual studio 2013\Projects\Week02\DisplayInfo\bin\Debug\DisplayInfo.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\Week02\DisplayInfo\bin\Debug\DisplayInfo.pdb
+c:\users\ahmed\documents\visual studio 2013\Projects\Week02\DisplayInfo\obj\Debug\DisplayInfo.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\Week02\DisplayInfo\obj\Debug\DisplayInfo.pdb

@@ -1,0 +1,6 @@
+c:\users\ahmed\documents\visual studio 2013\Projects\GameWorkshop\VAQ0\bin\Debug\VAQ0.exe.config
+c:\users\ahmed\documents\visual studio 2013\Projects\GameWorkshop\VAQ0\bin\Debug\VAQ0.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\GameWorkshop\VAQ0\bin\Debug\VAQ0.pdb
+c:\users\ahmed\documents\visual studio 2013\Projects\GameWorkshop\VAQ0\obj\Debug\VAQ0.csprojResolveAssemblyReference.cache
+c:\users\ahmed\documents\visual studio 2013\Projects\GameWorkshop\VAQ0\obj\Debug\VAQ0.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\GameWorkshop\VAQ0\obj\Debug\VAQ0.pdb

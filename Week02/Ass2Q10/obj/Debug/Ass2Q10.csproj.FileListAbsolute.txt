@@ -1,0 +1,5 @@
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week02\Ass2Q10\bin\Debug\Ass2Q10.exe.config
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week02\Ass2Q10\bin\Debug\Ass2Q10.exe
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week02\Ass2Q10\bin\Debug\Ass2Q10.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week02\Ass2Q10\obj\Debug\Ass2Q10.exe
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week02\Ass2Q10\obj\Debug\Ass2Q10.pdb

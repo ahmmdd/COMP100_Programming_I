@@ -1,0 +1,6 @@
+c:\users\ahmed\documents\visual studio 2013\Projects\Week09\MethodDemo\bin\Debug\MethodDemo.exe.config
+c:\users\ahmed\documents\visual studio 2013\Projects\Week09\MethodDemo\bin\Debug\MethodDemo.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\Week09\MethodDemo\bin\Debug\MethodDemo.pdb
+c:\users\ahmed\documents\visual studio 2013\Projects\Week09\MethodDemo\obj\Debug\MethodDemo.csprojResolveAssemblyReference.cache
+c:\users\ahmed\documents\visual studio 2013\Projects\Week09\MethodDemo\obj\Debug\MethodDemo.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\Week09\MethodDemo\obj\Debug\MethodDemo.pdb

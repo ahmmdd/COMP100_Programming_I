@@ -1,0 +1,6 @@
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week03\UserName\bin\Debug\UserName.exe.config
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week03\UserName\bin\Debug\UserName.exe
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week03\UserName\bin\Debug\UserName.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week03\UserName\obj\Debug\UserName.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week03\UserName\obj\Debug\UserName.exe
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week03\UserName\obj\Debug\UserName.pdb

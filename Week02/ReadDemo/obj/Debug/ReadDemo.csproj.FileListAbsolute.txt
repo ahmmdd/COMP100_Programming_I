@@ -1,0 +1,5 @@
+c:\users\ahmed\documents\visual studio 2013\Projects\Week02\ReadDemo\bin\Debug\ReadDemo.exe.config
+c:\users\ahmed\documents\visual studio 2013\Projects\Week02\ReadDemo\bin\Debug\ReadDemo.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\Week02\ReadDemo\bin\Debug\ReadDemo.pdb
+c:\users\ahmed\documents\visual studio 2013\Projects\Week02\ReadDemo\obj\Debug\ReadDemo.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\Week02\ReadDemo\obj\Debug\ReadDemo.pdb

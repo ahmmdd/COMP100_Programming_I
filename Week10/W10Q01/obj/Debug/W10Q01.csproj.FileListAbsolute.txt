@@ -1,0 +1,6 @@
+c:\users\ahmed\documents\visual studio 2013\Projects\Week10\W10Q01\bin\Debug\W10Q01.exe.config
+c:\users\ahmed\documents\visual studio 2013\Projects\Week10\W10Q01\bin\Debug\W10Q01.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\Week10\W10Q01\bin\Debug\W10Q01.pdb
+c:\users\ahmed\documents\visual studio 2013\Projects\Week10\W10Q01\obj\Debug\W10Q01.csprojResolveAssemblyReference.cache
+c:\users\ahmed\documents\visual studio 2013\Projects\Week10\W10Q01\obj\Debug\W10Q01.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\Week10\W10Q01\obj\Debug\W10Q01.pdb

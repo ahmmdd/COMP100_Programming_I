@@ -1,0 +1,5 @@
+c:\users\ahmed\documents\visual studio 2013\Projects\GameWorkshop\VAQ2\bin\Debug\VAQ2.exe.config
+c:\users\ahmed\documents\visual studio 2013\Projects\GameWorkshop\VAQ2\bin\Debug\VAQ2.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\GameWorkshop\VAQ2\bin\Debug\VAQ2.pdb
+c:\users\ahmed\documents\visual studio 2013\Projects\GameWorkshop\VAQ2\obj\Debug\VAQ2.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\GameWorkshop\VAQ2\obj\Debug\VAQ2.pdb

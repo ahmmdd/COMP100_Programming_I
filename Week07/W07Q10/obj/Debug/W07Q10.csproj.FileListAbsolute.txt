@@ -1,0 +1,5 @@
+c:\users\ahmed\documents\visual studio 2013\Projects\Week07\W07Q10\bin\Debug\W07Q10.exe.config
+c:\users\ahmed\documents\visual studio 2013\Projects\Week07\W07Q10\bin\Debug\W07Q10.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\Week07\W07Q10\bin\Debug\W07Q10.pdb
+c:\users\ahmed\documents\visual studio 2013\Projects\Week07\W07Q10\obj\Debug\W07Q10.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\Week07\W07Q10\obj\Debug\W07Q10.pdb

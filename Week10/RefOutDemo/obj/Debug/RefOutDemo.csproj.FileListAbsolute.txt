@@ -1,0 +1,6 @@
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week10\RefOutDemo\bin\Debug\RefOutDemo.exe.config
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week10\RefOutDemo\bin\Debug\RefOutDemo.exe
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week10\RefOutDemo\bin\Debug\RefOutDemo.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week10\RefOutDemo\obj\Debug\RefOutDemo.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week10\RefOutDemo\obj\Debug\RefOutDemo.exe
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week10\RefOutDemo\obj\Debug\RefOutDemo.pdb
