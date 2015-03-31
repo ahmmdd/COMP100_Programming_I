@@ -1,0 +1,5 @@
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week12\W12Part1-7and8\bin\Debug\W12Part1-7and8.exe.config
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week12\W12Part1-7and8\bin\Debug\W12Part1-7and8.exe
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week12\W12Part1-7and8\bin\Debug\W12Part1-7and8.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week12\W12Part1-7and8\obj\Debug\W12Part1-7and8.exe
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Week12\W12Part1-7and8\obj\Debug\W12Part1-7and8.pdb
