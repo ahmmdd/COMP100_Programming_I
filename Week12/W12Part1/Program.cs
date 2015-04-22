@@ -4,7 +4,7 @@ namespace W12Part1{
     class Program{
         #region MAIN
         static void Main(string[] args){
-            
+            /*
             //Question 1
             DisplayPersonalInfo();
             Console.Write("Enter any key to continue...");
@@ -28,19 +28,19 @@ namespace W12Part1{
             Console.Write("Enter any key to continue...");
             Console.ReadLine();
             Console.Clear();
-            
+            */
             //Question 5
             CalculateSaleCommission();
             Console.Write("Enter any key to continue...");
             Console.ReadLine();
             Console.Clear();
-            
+            /*
             //Question 6
             DisplaySineTable();
             Console.Write("Enter any key to continue...");
             Console.ReadLine();
             Console.Clear();
-
+            */
             Console.ReadLine();
         }
         #endregion
@@ -97,7 +97,7 @@ namespace W12Part1{
             Console.Write("Enter your sales amount:");
             sales = Convert.ToDouble(Console.ReadLine());
             if (sales > 1000){
-                commission = 0.0025 * sales;
+                commission = 0.25 * sales;
                 Console.WriteLine("Your commission is {0:f}", commission);
             }else if (sales > 0 || sales <= 1000){
                 Console.WriteLine("No commission because your sales are below $1000.00");

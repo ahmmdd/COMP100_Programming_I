@@ -9,14 +9,15 @@ namespace RefOutDemo
         // if doing this same example for REF we need to assign 'a=0' and 'v=0'
         static void Main(string[] args)
         {
-            double radius = 1, a, v;
-            CalculateAreaAndVolume(radius, out a, out v);
+            double radius = 1;
+            double a, v;
+            CalculateAreaAndVolume(radius, ref a, ref v);
             Console.WriteLine("R: {0}, A: {1:f}, V: {2:f}", radius, a, v);
             
             Console.ReadLine();
         }
 
-        static void CalculateAreaAndVolume(double rad, out double area, out double volume)
+        static void CalculateAreaAndVolume(double rad, ref double area, ref double volume)
         {
             area = 4 * Math.PI * rad * rad;
             volume = 4 * Math.PI * rad * rad * rad / 3;

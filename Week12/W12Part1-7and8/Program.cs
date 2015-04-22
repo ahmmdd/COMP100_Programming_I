@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace W12Part1_7and8{
+namespace W12Part1_7_8{
     class Program{
         #region MAIN
         static void Main(string[] args){

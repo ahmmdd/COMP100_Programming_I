@@ -1,1 +1,6 @@
 c:\users\ahmed\documents\visual studio 2013\Projects\Week11\W11ArrayB\bin\Debug\W11ArrayB.exe.config
+C:\Users\Ahmed\documents\visual studio 2013\Projects\Week11\W11ArrayB\bin\Debug\W11ArrayB.exe
+C:\Users\Ahmed\documents\visual studio 2013\Projects\Week11\W11ArrayB\bin\Debug\W11ArrayB.pdb
+C:\Users\Ahmed\documents\visual studio 2013\Projects\Week11\W11ArrayB\obj\Debug\W11ArrayB.exe
+C:\Users\Ahmed\documents\visual studio 2013\Projects\Week11\W11ArrayB\obj\Debug\W11ArrayB.pdb
+C:\Users\Ahmed\documents\visual studio 2013\Projects\Week11\W11ArrayB\obj\Debug\W11ArrayB.csprojResolveAssemblyReference.cache
